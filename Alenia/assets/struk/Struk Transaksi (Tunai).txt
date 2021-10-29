@@ -1,0 +1,23 @@
+           Aline
+     Jl.A.Yani No.6,
+    Pangongangan, Kec.Manguharjo
+        Kota Madiun, 63121
+                             
+           TABLE:08766666        
+Customer:Agg	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Dress tunik korean style import		 10000
+1  Tas Kanken		 50000
+-------------------------------
+-------------------------------
+Subtotal 		 60000
+Ppn 			 6000
+-------------------------------
+TOTAL 			 66000
+Cash 			 70000
+Kembalian 		 4000
+                             
+          Via tunai 
+<-----2021/10/29 09:50:56----->
+         Terima Kasih

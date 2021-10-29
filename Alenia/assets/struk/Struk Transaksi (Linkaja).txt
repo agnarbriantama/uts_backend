@@ -1,0 +1,22 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:666        
+Customer:Naomy	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Chocolate		 15000
+-------------------------------
+-------------------------------
+Subtotal 		 15000
+Ppn 			 1500
+-------------------------------
+TOTAL 			 16500
+Cash 			 16500
+Kembalian 		 0
+                             
+          Via linkaja 
+<-----2021/10/20 14:30:44----->
+         Terima Kasih
